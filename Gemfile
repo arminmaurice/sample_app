@@ -4,7 +4,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.8'
 gem 'pg'
-gem 'sqlite3'
+#gem 'sqlite3'
 gem 'taps'
 gem 'guard-rspec'
 
