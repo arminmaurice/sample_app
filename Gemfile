@@ -3,6 +3,8 @@ ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.8'
+gem 'bootstrap-sass'
+gem 'sprockets'
 gem 'pg'
 #gem 'sqlite3'
 gem 'taps'
