@@ -9,6 +9,7 @@ gem 'pg'
 #gem 'sqlite3'
 gem 'taps'
 gem 'guard-rspec'
+gem 'bcrypt'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
